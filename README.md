@@ -20,4 +20,9 @@ cd ..
 npm run dev
 ```
 
+Last Step!
+
+Create a database in postgres named AppinessDB And restore the backup file from root folder
+
+
  Wow! App is running on=> http://localhost:3000
