@@ -14,7 +14,7 @@ go to client folder and run following command
 npm install
 ```
 
-Cone out of client folder and run the application
+Come out of client folder and run the application
 ```bash
 cd ..
 npm run dev
